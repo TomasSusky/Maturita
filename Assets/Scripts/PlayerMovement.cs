@@ -6,36 +6,44 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float moveSpeed = 10f;
     [SerializeField] float jumpSpeed = 5f;
     [SerializeField] float climbSpeed = 5f;
+    [SerializeField] Vector2 deathKick = new Vector2(10f, 25f);
     Vector2 moveInput;
     Rigidbody2D myRigidbody;
     Animator myAnimator;
-    CapsuleCollider2D myCapsuleCollider;
+    CapsuleCollider2D myBodyCollider;
     float gravityScaleAtStart;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    BoxCollider2D myFeetCollider;
+
+    bool isAlive = true;
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
-        myCapsuleCollider = GetComponent<CapsuleCollider2D>();
+        myBodyCollider = GetComponent<CapsuleCollider2D>();
         gravityScaleAtStart = myRigidbody.gravityScale;
+        myFeetCollider = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(!isAlive) { return; }
         Run();
         FlipSprite();
         ClimbLadder();
+        Die();
     }
 
     void OnMove(InputValue value)
     {
+        if(!isAlive) { return; }
         moveInput = value.Get<Vector2>();
     }
 
     void OnJump(InputValue value)
     {
-        if(!myCapsuleCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
+        if(!isAlive) { return; }
+        if(!myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
         {
             return;
         }
@@ -65,7 +73,7 @@ public class PlayerMovement : MonoBehaviour
 
     void ClimbLadder()
     {
-        if(!myCapsuleCollider.IsTouchingLayers(LayerMask.GetMask("Climbing")))
+        if(!myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Climbing")))
         {
             myRigidbody.gravityScale = gravityScaleAtStart;
             myAnimator.SetBool("isClimbing", false);
@@ -76,6 +84,16 @@ public class PlayerMovement : MonoBehaviour
         myRigidbody.linearVelocity = climbVelocity;
     
         myAnimator.SetBool("isClimbing", Mathf.Abs(myRigidbody.linearVelocity.y) > Mathf.Epsilon);
-
     }
+
+    void Die()
+    {
+       if(myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemies","Hazards")))
+        {
+            isAlive = false;
+            myAnimator.SetTrigger("Dying");
+            myRigidbody.linearVelocity = deathKick;
+        }
+    }
+
 }
