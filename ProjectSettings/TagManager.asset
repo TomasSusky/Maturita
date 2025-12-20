@@ -18,7 +18,7 @@ TagManager:
   - Enemies
   - Hazards
   - Decorations
-  - 
+  - Interactables
   - 
   - 
   - 
@@ -58,6 +58,9 @@ TagManager:
     locked: 0
   - name: Enemies
     uniqueID: 3746241933
+    locked: 0
+  - name: Interactables
+    uniqueID: 618724141
     locked: 0
   - name: Player
     uniqueID: 335889611
