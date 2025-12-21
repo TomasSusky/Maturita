@@ -2,11 +2,18 @@ using UnityEngine;
 
 public class CoinPickup : MonoBehaviour
 {
+    [SerializeField] AudioClip coinPickupSFX;
+
+    bool wasCollected = false;
+    
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Player"))
+        if(collision.CompareTag("Player") && !wasCollected)
         {
-           Destroy(gameObject);
+            wasCollected = true;
+            AudioSource.PlayClipAtPoint(coinPickupSFX, transform.position);
+            gameObject.SetActive(false);
+            Destroy(gameObject);
         }
     }
 }
