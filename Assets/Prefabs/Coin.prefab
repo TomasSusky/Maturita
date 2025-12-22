@@ -128,8 +128,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.12302312, y: -0.118035525}
-  m_Radius: 0.37531444
+  m_Offset: {x: -0.08998513, y: -0.08245617}
+  m_Radius: 0.22028977
 --- !u!114 &6749223481332729072
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,6 +143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CoinPickup
   coinPickupSFX: {fileID: 8300000, guid: dc8cf4a6b4c82d042851d034749e1335, type: 3}
+  pointsForCoinPickup: 10
 --- !u!95 &3066269914085595992
 Animator:
   serializedVersion: 7

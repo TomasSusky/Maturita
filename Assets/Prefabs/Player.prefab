@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 5528804011191863506}
   m_Layer: 8
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -84,7 +84,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 335889611
-  m_SortingLayer: 7
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: 1224011524597243893, guid: 765bfac6553e05c4a8cfeb63b01752d1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -153,8 +153,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.11464143, y: -0.054303765}
-  m_Size: {x: 0.77071714, y: 0.89139247}
+  m_Offset: {x: -0.12849423, y: -0.054303765}
+  m_Size: {x: 0.6321898, y: 0.89139247}
   m_Direction: 0
 --- !u!50 &8003984698446870616
 Rigidbody2D:
@@ -228,7 +228,7 @@ MonoBehaviour:
   moveSpeed: 10
   jumpSpeed: 12
   climbSpeed: 5
-  deathKick: {x: 10, y: 25}
+  deathKick: {x: 10, y: 10}
 --- !u!61 &5528804011191863506
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -263,7 +263,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.13256359, y: -0.4388914}
+  m_Offset: {x: -0.12436655, y: -0.4388914}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -273,7 +273,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.6390345, y: 0.12221718}
+  m_Size: {x: 0.52427477, y: 0.12221718}
   m_EdgeRadius: 0
 --- !u!1 &7377370820265243693
 GameObject:
