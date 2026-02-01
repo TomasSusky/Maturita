@@ -10,13 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2a939c9b5142514086bd165cbbf93ed, type: 3}
-  m_Name: Test
+  m_Name: hotovo
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   dialogue:
-  - "Prv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFD. Prv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFD"
-  - "Druh\xFDDruh\xFDDruh\xFDDruh\xFDDruh\xFD, Druh\xFDDruh\xFDDruh\xFD!"
+  - Hotovo
   responses:
-  - responseText: Yes
-    dialogueObject: {fileID: 11400000, guid: f9553668212766040bc429beecb3e7f1, type: 2}
-  - responseText: No
-    dialogueObject: {fileID: 11400000, guid: 3aba31c8e05b84f46b305aa955a5b2aa, type: 2}
+  - responseText: Okay
+    dialogueObject: {fileID: 0}

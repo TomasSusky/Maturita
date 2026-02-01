@@ -1,0 +1,4331 @@
+fileFormatVersion: 2
+guid: 2bedc48210f1b354eb1babae1a6dbc1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3253818524902621619
+    second: Frames-and-Banners_0
+  - first:
+      213: 9132099456704268010
+    second: Frames-and-Banners_1
+  - first:
+      213: 7930828383154157108
+    second: Frames-and-Banners_2
+  - first:
+      213: 4521647955366919481
+    second: Frames-and-Banners_3
+  - first:
+      213: 6143584511448684207
+    second: Frames-and-Banners_4
+  - first:
+      213: -5395264548239351744
+    second: Frames-and-Banners_5
+  - first:
+      213: 6724696365868069504
+    second: Frames-and-Banners_6
+  - first:
+      213: -8977671427105182788
+    second: Frames-and-Banners_7
+  - first:
+      213: -1566862758817611832
+    second: Frames-and-Banners_8
+  - first:
+      213: -2482700959527231406
+    second: Frames-and-Banners_9
+  - first:
+      213: 6228508778525212349
+    second: Frames-and-Banners_10
+  - first:
+      213: 6861348883470508461
+    second: Frames-and-Banners_11
+  - first:
+      213: -4458506318447348965
+    second: Frames-and-Banners_12
+  - first:
+      213: 8619711171849022718
+    second: Frames-and-Banners_13
+  - first:
+      213: -590903992254848051
+    second: Frames-and-Banners_14
+  - first:
+      213: -7263280401967211940
+    second: Frames-and-Banners_15
+  - first:
+      213: -2606343388680563462
+    second: Frames-and-Banners_16
+  - first:
+      213: 6337357670248379509
+    second: Frames-and-Banners_17
+  - first:
+      213: -109244493819282268
+    second: Frames-and-Banners_18
+  - first:
+      213: 8531536632270002957
+    second: Frames-and-Banners_19
+  - first:
+      213: 1892823090764320940
+    second: Frames-and-Banners_20
+  - first:
+      213: 5884611199261667466
+    second: Frames-and-Banners_21
+  - first:
+      213: 8369102214556268208
+    second: Frames-and-Banners_22
+  - first:
+      213: -6690796952875420698
+    second: Frames-and-Banners_23
+  - first:
+      213: 8418519915089834970
+    second: Frames-and-Banners_24
+  - first:
+      213: -7800885703479952240
+    second: Frames-and-Banners_25
+  - first:
+      213: 3001460143697355163
+    second: Frames-and-Banners_26
+  - first:
+      213: 3484693744628291212
+    second: Frames-and-Banners_27
+  - first:
+      213: -8542255148165023980
+    second: Frames-and-Banners_28
+  - first:
+      213: 5180789074577565938
+    second: Frames-and-Banners_29
+  - first:
+      213: -3045970696038391943
+    second: Frames-and-Banners_30
+  - first:
+      213: 7133798272545687137
+    second: Frames-and-Banners_31
+  - first:
+      213: -7811881606586490105
+    second: Frames-and-Banners_32
+  - first:
+      213: 375081609035495591
+    second: Frames-and-Banners_33
+  - first:
+      213: -7348410264078212678
+    second: Frames-and-Banners_34
+  - first:
+      213: 6977934943577554172
+    second: Frames-and-Banners_35
+  - first:
+      213: -8520343748118472819
+    second: Frames-and-Banners_36
+  - first:
+      213: 8634418538118339641
+    second: Frames-and-Banners_37
+  - first:
+      213: -1095225477368269313
+    second: Frames-and-Banners_38
+  - first:
+      213: -2256664955834292594
+    second: Frames-and-Banners_39
+  - first:
+      213: 1694902438952469693
+    second: Frames-and-Banners_40
+  - first:
+      213: 6167207451561348913
+    second: Frames-and-Banners_41
+  - first:
+      213: 2531419104379192206
+    second: Frames-and-Banners_42
+  - first:
+      213: 143212689409106549
+    second: Frames-and-Banners_43
+  - first:
+      213: -135094572699624237
+    second: Frames-and-Banners_44
+  - first:
+      213: 4665699113236015576
+    second: Frames-and-Banners_45
+  - first:
+      213: -2108092730043213342
+    second: Frames-and-Banners_46
+  - first:
+      213: -7376625516486957055
+    second: Frames-and-Banners_47
+  - first:
+      213: -8967050796904816139
+    second: Frames-and-Banners_48
+  - first:
+      213: -8021812277773492702
+    second: Frames-and-Banners_49
+  - first:
+      213: -760105046354617883
+    second: Frames-and-Banners_50
+  - first:
+      213: 308552997253701086
+    second: Frames-and-Banners_51
+  - first:
+      213: -6628506940651996351
+    second: Frames-and-Banners_52
+  - first:
+      213: -462062634908290393
+    second: Frames-and-Banners_53
+  - first:
+      213: -2423208521730325424
+    second: Frames-and-Banners_54
+  - first:
+      213: -3422593813710320228
+    second: Frames-and-Banners_55
+  - first:
+      213: 8700259510528807495
+    second: Frames-and-Banners_56
+  - first:
+      213: -7168240526443277321
+    second: Frames-and-Banners_57
+  - first:
+      213: -8790459128971707004
+    second: Frames-and-Banners_58
+  - first:
+      213: -5352532058858181547
+    second: Frames-and-Banners_59
+  - first:
+      213: 7456198596153224434
+    second: Frames-and-Banners_60
+  - first:
+      213: 2301574963354524553
+    second: Frames-and-Banners_61
+  - first:
+      213: 2793918898015564463
+    second: Frames-and-Banners_62
+  - first:
+      213: 4464990200040658372
+    second: Frames-and-Banners_63
+  - first:
+      213: -5983006483397066336
+    second: Frames-and-Banners_64
+  - first:
+      213: 6427828085553787477
+    second: Frames-and-Banners_65
+  - first:
+      213: -7978463966147358411
+    second: Frames-and-Banners_66
+  - first:
+      213: -3806348462870851544
+    second: Frames-and-Banners_67
+  - first:
+      213: 1480765001425017971
+    second: Frames-and-Banners_68
+  - first:
+      213: 1999198026925727961
+    second: Frames-and-Banners_69
+  - first:
+      213: -1845648140996143682
+    second: Frames-and-Banners_70
+  - first:
+      213: -7009565877452882465
+    second: Frames-and-Banners_71
+  - first:
+      213: -5664229298309252374
+    second: Frames-and-Banners_72
+  - first:
+      213: 5803213754044459605
+    second: Frames-and-Banners_73
+  - first:
+      213: 325575762865462139
+    second: Frames-and-Banners_74
+  - first:
+      213: -4099843342131321966
+    second: Frames-and-Banners_75
+  - first:
+      213: -2853732428350720377
+    second: Frames-and-Banners_76
+  - first:
+      213: -4340762238130880241
+    second: Frames-and-Banners_77
+  - first:
+      213: -3561458964082423538
+    second: Frames-and-Banners_78
+  - first:
+      213: -5426775519742445053
+    second: Frames-and-Banners_79
+  - first:
+      213: -2382024986233620380
+    second: Frames-and-Banners_80
+  - first:
+      213: 3510897766467906682
+    second: Frames-and-Banners_81
+  - first:
+      213: 2334768048209454526
+    second: Frames-and-Banners_82
+  - first:
+      213: 8097648150726516457
+    second: Frames-and-Banners_83
+  - first:
+      213: -7134084890116635797
+    second: Frames-and-Banners_84
+  - first:
+      213: -6440227820238594487
+    second: Frames-and-Banners_85
+  - first:
+      213: 5820394857130851378
+    second: Frames-and-Banners_86
+  - first:
+      213: -527951254135504673
+    second: Frames-and-Banners_87
+  - first:
+      213: 6495280178033611975
+    second: Frames-and-Banners_88
+  - first:
+      213: -3837487285575613881
+    second: Frames-and-Banners_89
+  - first:
+      213: -1621923978449569580
+    second: Frames-and-Banners_90
+  - first:
+      213: 7091640525957814601
+    second: Frames-and-Banners_91
+  - first:
+      213: -5711312364992117669
+    second: Frames-and-Banners_92
+  - first:
+      213: -7583157162068208708
+    second: Frames-and-Banners_93
+  - first:
+      213: -5007316132672018122
+    second: Frames-and-Banners_94
+  - first:
+      213: -4422500719755616194
+    second: Frames-and-Banners_95
+  - first:
+      213: 8950619418699652012
+    second: Frames-and-Banners_96
+  - first:
+      213: -4494922795739829785
+    second: Frames-and-Banners_97
+  - first:
+      213: -6274315344872977129
+    second: Frames-and-Banners_98
+  - first:
+      213: -1473694119744040398
+    second: Frames-and-Banners_99
+  - first:
+      213: 5465873724718374649
+    second: Frames-and-Banners_100
+  - first:
+      213: 3470883102205318927
+    second: Frames-and-Banners_101
+  - first:
+      213: -2552941582704076706
+    second: Frames-and-Banners_102
+  - first:
+      213: 801267243691748348
+    second: Frames-and-Banners_103
+  - first:
+      213: 3450311049011453829
+    second: Frames-and-Banners_104
+  - first:
+      213: 7804798421783021581
+    second: Frames-and-Banners_105
+  - first:
+      213: 4348773949321135126
+    second: Frames-and-Banners_106
+  - first:
+      213: 6514302191212731045
+    second: Frames-and-Banners_107
+  - first:
+      213: -7597713434282346352
+    second: Frames-and-Banners_108
+  - first:
+      213: 3735977296330862160
+    second: Frames-and-Banners_109
+  - first:
+      213: -3640017264320933918
+    second: Frames-and-Banners_110
+  - first:
+      213: -2213973689706199946
+    second: Frames-and-Banners_111
+  - first:
+      213: -3208513342922541293
+    second: Frames-and-Banners_112
+  - first:
+      213: -4264908239483394108
+    second: Frames-and-Banners_113
+  - first:
+      213: -6278212310420474052
+    second: Frames-and-Banners_114
+  - first:
+      213: -8407586882058674145
+    second: Frames-and-Banners_115
+  - first:
+      213: -3376683017791979361
+    second: Frames-and-Banners_116
+  - first:
+      213: -2592101919608486349
+    second: Frames-and-Banners_117
+  - first:
+      213: 3044178958272605451
+    second: Frames-and-Banners_118
+  - first:
+      213: -6980298622350267360
+    second: Frames-and-Banners_119
+  - first:
+      213: 4702715120136077811
+    second: Frames-and-Banners_120
+  - first:
+      213: 49390021359521248
+    second: Frames-and-Banners_121
+  - first:
+      213: 2157279777074583506
+    second: Frames-and-Banners_122
+  - first:
+      213: -6997998362340607927
+    second: Frames-and-Banners_123
+  - first:
+      213: -6988849901524153622
+    second: Frames-and-Banners_124
+  - first:
+      213: -2258968375741507829
+    second: Frames-and-Banners_125
+  - first:
+      213: -6606726450921980269
+    second: Frames-and-Banners_126
+  - first:
+      213: 3939186132319157423
+    second: Frames-and-Banners_127
+  - first:
+      213: 9067153199468059846
+    second: Frames-and-Banners_128
+  - first:
+      213: 8791055134568554605
+    second: Frames-and-Banners_129
+  - first:
+      213: -1675342862476108860
+    second: Frames-and-Banners_130
+  - first:
+      213: -4382799202682466076
+    second: Frames-and-Banners_131
+  - first:
+      213: -7061041473987538375
+    second: Frames-and-Banners_132
+  - first:
+      213: -3005077995770546039
+    second: Frames-and-Banners_133
+  - first:
+      213: 3447267156856421407
+    second: Frames-and-Banners_134
+  - first:
+      213: 1855882007897373959
+    second: Frames-and-Banners_135
+  - first:
+      213: 3228190852554617377
+    second: Frames-and-Banners_136
+  - first:
+      213: 521040700162605105
+    second: Frames-and-Banners_137
+  - first:
+      213: -3942196668586873473
+    second: Frames-and-Banners_138
+  - first:
+      213: 1222385212399194884
+    second: Frames-and-Banners_139
+  - first:
+      213: 8879602931126819326
+    second: Frames-and-Banners_140
+  - first:
+      213: -7233582867741256490
+    second: Frames-and-Banners_141
+  - first:
+      213: -663190904898646361
+    second: Frames-and-Banners_142
+  - first:
+      213: 6678958350172466645
+    second: Frames-and-Banners_143
+  - first:
+      213: -7547853394780994964
+    second: Frames-and-Banners_144
+  - first:
+      213: -1568775895993124279
+    second: Frames-and-Banners_145
+  - first:
+      213: 9193305247955428430
+    second: Frames-and-Banners_146
+  - first:
+      213: -7868845216322091939
+    second: Frames-and-Banners_147
+  - first:
+      213: -5758394744336576273
+    second: Frames-and-Banners_148
+  - first:
+      213: 7879415329818183606
+    second: Frames-and-Banners_149
+  - first:
+      213: 5484020763636137915
+    second: Frames-and-Banners_150
+  - first:
+      213: 1329717274750722204
+    second: Frames-and-Banners_151
+  - first:
+      213: -5769444891099624484
+    second: Frames-and-Banners_152
+  - first:
+      213: 1210705663420251383
+    second: Frames-and-Banners_153
+  - first:
+      213: 121772311576145710
+    second: Frames-and-Banners_154
+  - first:
+      213: -1157145151490232122
+    second: Frames-and-Banners_155
+  - first:
+      213: -5198375889277321297
+    second: Frames-and-Banners_156
+  - first:
+      213: 5988932693567699296
+    second: Frames-and-Banners_157
+  - first:
+      213: -7992733596551370832
+    second: Frames-and-Banners_158
+  - first:
+      213: -3701635883023986966
+    second: Frames-and-Banners_159
+  - first:
+      213: -6478770245392531045
+    second: Frames-and-Banners_160
+  - first:
+      213: -6581732274392272716
+    second: Frames-and-Banners_161
+  - first:
+      213: -5079574046301417535
+    second: Frames-and-Banners_162
+  - first:
+      213: -426570573143226447
+    second: Frames-and-Banners_163
+  - first:
+      213: -1850098368442331798
+    second: Frames-and-Banners_164
+  - first:
+      213: 3993472781612356630
+    second: Frames-and-Banners_165
+  - first:
+      213: -1527880732545613263
+    second: Frames-and-Banners_166
+  - first:
+      213: -6234034333599634555
+    second: Frames-and-Banners_167
+  - first:
+      213: -4271539667298680054
+    second: Frames-and-Banners_168
+  - first:
+      213: 7958918085130816194
+    second: Frames-and-Banners_169
+  - first:
+      213: 7662573237667554342
+    second: Frames-and-Banners_170
+  - first:
+      213: 4527360954856586657
+    second: Frames-and-Banners_171
+  - first:
+      213: 6776433430355187431
+    second: Frames-and-Banners_172
+  - first:
+      213: 1442613027843462607
+    second: Frames-and-Banners_173
+  - first:
+      213: -6059248808888249285
+    second: Frames-and-Banners_174
+  - first:
+      213: 6306406225764114374
+    second: Frames-and-Banners_175
+  - first:
+      213: 7025409175854755718
+    second: Frames-and-Banners_176
+  - first:
+      213: 3723528566088121292
+    second: Frames-and-Banners_177
+  - first:
+      213: 6844298478004236876
+    second: Frames-and-Banners_178
+  - first:
+      213: -452516395764931920
+    second: Frames-and-Banners_179
+  - first:
+      213: -5120646464435503064
+    second: Frames-and-Banners_180
+  - first:
+      213: 7313397214998806745
+    second: Frames-and-Banners_181
+  - first:
+      213: -840954387188896797
+    second: Frames-and-Banners_182
+  - first:
+      213: -2577866530651131056
+    second: Frames-and-Banners_183
+  - first:
+      213: -6730255340633054171
+    second: Frames-and-Banners_184
+  - first:
+      213: 1877016652417085762
+    second: Frames-and-Banners_185
+  - first:
+      213: -611675274970879979
+    second: Frames-and-Banners_186
+  - first:
+      213: -4369834000213772047
+    second: Frames-and-Banners_187
+  - first:
+      213: 4890740430223005271
+    second: Frames-and-Banners_188
+  - first:
+      213: 7101240395495442418
+    second: Frames-and-Banners_189
+  - first:
+      213: 1021461469025485873
+    second: Frames-and-Banners_190
+  - first:
+      213: 3147217111472861469
+    second: Frames-and-Banners_191
+  - first:
+      213: 9186985658084967616
+    second: Frames-and-Banners_192
+  - first:
+      213: 6862551742898097686
+    second: Frames-and-Banners_193
+  - first:
+      213: 8808353914610225917
+    second: Frames-and-Banners_194
+  - first:
+      213: -1770708800328363974
+    second: Frames-and-Banners_195
+  - first:
+      213: -5004182503245263656
+    second: Frames-and-Banners_196
+  - first:
+      213: -4252345488896268572
+    second: Frames-and-Banners_197
+  - first:
+      213: 6225304782814377822
+    second: Frames-and-Banners_198
+  - first:
+      213: 4457243756513060990
+    second: Frames-and-Banners_199
+  - first:
+      213: 8180711809138668365
+    second: Frames-and-Banners_200
+  - first:
+      213: -3478700084061946740
+    second: Frames-and-Banners_201
+  - first:
+      213: 1938808433038743766
+    second: Frames-and-Banners_202
+  - first:
+      213: 872931707419261012
+    second: Frames-and-Banners_203
+  - first:
+      213: -5726540361415302131
+    second: Frames-and-Banners_204
+  - first:
+      213: -5628918099967013689
+    second: Frames-and-Banners_205
+  - first:
+      213: -6872279373852409354
+    second: Frames-and-Banners_206
+  - first:
+      213: -1645848182305558746
+    second: Frames-and-Banners_207
+  - first:
+      213: 8310827248611931555
+    second: Frames-and-Banners_208
+  - first:
+      213: -6431546940215321083
+    second: Frames-and-Banners_209
+  - first:
+      213: 8153272175806076393
+    second: Frames-and-Banners_210
+  - first:
+      213: 539996370092751380
+    second: Frames-and-Banners_211
+  - first:
+      213: -2162233352925813215
+    second: Frames-and-Banners_212
+  - first:
+      213: -729232827406654448
+    second: Frames-and-Banners_213
+  - first:
+      213: -7138058333100116949
+    second: Frames-and-Banners_214
+  - first:
+      213: -5207681672347996806
+    second: Frames-and-Banners_215
+  - first:
+      213: 5975056219069287703
+    second: Frames-and-Banners_216
+  - first:
+      213: 6881456525157900575
+    second: Frames-and-Banners_217
+  - first:
+      213: -6719634556978822969
+    second: Frames-and-Banners_218
+  - first:
+      213: -4958747423677441841
+    second: Frames-and-Banners_219
+  - first:
+      213: 2326249520500170072
+    second: Frames-and-Banners_220
+  - first:
+      213: 1584840027435672106
+    second: Frames-and-Banners_221
+  - first:
+      213: 910351194786868889
+    second: Frames-and-Banners_222
+  - first:
+      213: -186567845237300163
+    second: Frames-and-Banners_223
+  - first:
+      213: 4837639738732816050
+    second: Frames-and-Banners_224
+  - first:
+      213: 8313607212898909157
+    second: Frames-and-Banners_225
+  - first:
+      213: 6482619637306664190
+    second: Frames-and-Banners_226
+  - first:
+      213: -4704104486611393145
+    second: Frames-and-Banners_227
+  - first:
+      213: 1396683726067981280
+    second: Frames-and-Banners_228
+  - first:
+      213: -9212668855955374073
+    second: Frames-and-Banners_229
+  - first:
+      213: 2700723356572211395
+    second: Frames-and-Banners_230
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frames-and-Banners_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1086c75b2e72d20800000000000000
+      internalID: 3253818524902621619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6456a621cbbbe70800000000000000
+      internalID: 9132099456704268010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4363d782566ff0e60800000000000000
+      internalID: 7930828383154157108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d3403dbde10ce30800000000000000
+      internalID: 4521647955366919481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69d742095624550800000000000000
+      internalID: 6143584511448684207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0406fec8a7b2025b0800000000000000
+      internalID: -5395264548239351744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0823ded37bbe25d50800000000000000
+      internalID: 6724696365868069504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbba83d1767e86380800000000000000
+      internalID: -8977671427105182788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf33e85f92614ae0800000000000000
+      internalID: -1566862758817611832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250abd791acab8dd0800000000000000
+      internalID: -2482700959527231406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeb568ebbb107650800000000000000
+      internalID: 6228508778525212349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1684fd478683f50800000000000000
+      internalID: 6861348883470508461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b137c1420243022c0800000000000000
+      internalID: -4458506318447348965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efce68044ad5f9770800000000000000
+      internalID: 8619711171849022718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32a4523ffacc7f0800000000000000
+      internalID: -590903992254848051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a10b8f4f4a33b90800000000000000
+      internalID: -7263280401967211940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4d10b3f7864dbd0800000000000000
+      internalID: -2606343388680563462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57470cd6931d2f750800000000000000
+      internalID: 6337357670248379509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acfb3036b2eb7ef0800000000000000
+      internalID: -109244493819282268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b9fa27d5b166670800000000000000
+      internalID: 8531536632270002957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01aab8298a44a10800000000000000
+      internalID: 1892823090764320940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80f64d25b65aa150800000000000000
+      internalID: 5884611199261667466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6bf8b6f16052470800000000000000
+      internalID: 8369102214556268208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33897ee938523a0800000000000000
+      internalID: -6690796952875420698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad33b71724794d470800000000000000
+      internalID: 8418519915089834970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c77a698cfadb390800000000000000
+      internalID: -7800885703479952240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91e298291457a920800000000000000
+      internalID: 3001460143697355163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86589f7f7e1c5030800000000000000
+      internalID: 3484693744628291212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4173fd89330d37980800000000000000
+      internalID: -8542255148165023980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8ab6ed63cd5e740800000000000000
+      internalID: 5180789074577565938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd16a4ac98ab5d0800000000000000
+      internalID: -3045970696038391943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166816e7bb7500360800000000000000
+      internalID: 7133798272545687137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7032104611f969390800000000000000
+      internalID: -7811881606586490105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b7547cbe843500800000000000000
+      internalID: 375081609035495591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1a8c16cc3350a90800000000000000
+      internalID: -7348410264078212678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcb9b94cda96d060800000000000000
+      internalID: 6977934943577554172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d879d29f088a1c980800000000000000
+      internalID: -8520343748118472819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c579ec9ed93d770800000000000000
+      internalID: 8634418538118339641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_38
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b1882b3afcc0f0800000000000000
+      internalID: -1095225477368269313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ac62dd27bea0e0800000000000000
+      internalID: -2256664955834292594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db484bac9c0858710800000000000000
+      internalID: 1694902438952469693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fc47e7082569550800000000000000
+      internalID: 6167207451561348913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83c82e6348612320800000000000000
+      internalID: 2531419104379192206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ee87ae2bccf100800000000000000
+      internalID: 143212689409106549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcd72fa33c002ef0800000000000000
+      internalID: -135094572699624237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9a941af94efb040800000000000000
+      internalID: 4665699113236015576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d038c4dc8eb2e0800000000000000
+      internalID: -2108092730043213342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10866b00d26f0a990800000000000000
+      internalID: -7376625516486957055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1ea974fc2ae8380800000000000000
+      internalID: -8967050796904816139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e91781c3ccca090800000000000000
+      internalID: -8021812277773492702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91d00dc709375f0800000000000000
+      internalID: -760105046354617883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd50b3f053384400800000000000000
+      internalID: 308552997253701086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf93b8e00d204a0800000000000000
+      internalID: -6628506940651996351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a27f4e4b7c6699f0800000000000000
+      internalID: -462062634908290393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054809d20b80f5ed0800000000000000
+      internalID: -2423208521730325424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dc8536f018080d0800000000000000
+      internalID: -3422593813710320228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_56
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74298cacde78db870800000000000000
+      internalID: 8700259510528807495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31acc583b458c90800000000000000
+      internalID: -7168240526443277321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_58
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d3d0dfef3020680800000000000000
+      internalID: -8790459128971707004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c2ede837cf7b5b0800000000000000
+      internalID: -5352532058858181547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_60
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcaa7a5e1db97760800000000000000
+      internalID: 7456198596153224434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bdda22c36d0ff10800000000000000
+      internalID: 2301574963354524553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_62
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2f7775f6ef5c620800000000000000
+      internalID: 2793918898015564463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5160f2ee4d6fd30800000000000000
+      internalID: 4464990200040658372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1424c7d4718fca0800000000000000
+      internalID: -5983006483397066336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55276b4769b343950800000000000000
+      internalID: 6427828085553787477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53158846b4dc64190800000000000000
+      internalID: -7978463966147358411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8209a3b6d322d2bc0800000000000000
+      internalID: -3806348462870851544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd4c16cebbc8410800000000000000
+      internalID: 1480765001425017971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0e19663049ebb10800000000000000
+      internalID: 1999198026925727961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5909f5bc0f266e0800000000000000
+      internalID: -1845648140996143682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb8b409f409be90800000000000000
+      internalID: -7009565877452882465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeabaeba67d9461b0800000000000000
+      internalID: -5664229298309252374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a2b7d9928298050800000000000000
+      internalID: 5803213754044459605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b921d6e6da48400800000000000000
+      internalID: 325575762865462139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2932385c33e6a17c0800000000000000
+      internalID: -4099843342131321966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7867424e9718568d0800000000000000
+      internalID: -2853732428350720377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0187c52eb382c3c0800000000000000
+      internalID: -4340762238130880241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e098cbb01f7239ec0800000000000000
+      internalID: -3561458964082423538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a37f5ca6830b4b0800000000000000
+      internalID: -5426775519742445053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b07145e851fed0800000000000000
+      internalID: -2382024986233620380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_81
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2805cae639b030800000000000000
+      internalID: 3510897766467906682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e4727b23c66020800000000000000
+      internalID: 2334768048209454526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_83
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee17240710a06070800000000000000
+      internalID: 8097648150726516457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63cd172793aefc90800000000000000
+      internalID: -7134084890116635797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_85
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e17165be6bf96a0800000000000000
+      internalID: -6440227820238594487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c7bc7e84236c050800000000000000
+      internalID: 5820394857130851378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_87
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0088ea1275ca8f0800000000000000
+      internalID: -527951254135504673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4545098eed32a50800000000000000
+      internalID: 6495280178033611975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742003945a18ebac0800000000000000
+      internalID: -3837487285575613881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d833d32cb4cd79e0800000000000000
+      internalID: -1621923978449569580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949da783c719a6260800000000000000
+      internalID: 7091640525957814601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b544953f9a75db0b0800000000000000
+      internalID: -5711312364992117669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb317f60db633c690800000000000000
+      internalID: -7583157162068208708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639600ad180728ab0800000000000000
+      internalID: -5007316132672018122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30ae0cd60f10a2c0800000000000000
+      internalID: -4422500719755616194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab5e4b50fcf63c70800000000000000
+      internalID: 8950619418699652012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e92f1b4883de91c0800000000000000
+      internalID: -4494922795739829785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4014cf672de8a0800000000000000
+      internalID: -6274315344872977129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232131d81036c8be0800000000000000
+      internalID: -1473694119744040398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_100
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fedaf4713faadb40800000000000000
+      internalID: 5465873724718374649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f079adbbacd0b2030800000000000000
+      internalID: 3470883102205318927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_102
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5899961821229cd0800000000000000
+      internalID: -2552941582704076706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb2766105cae1b00800000000000000
+      internalID: 801267243691748348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_104
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fdee85e97f1ef20800000000000000
+      internalID: 3450311049011453829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0808e120d6305c60800000000000000
+      internalID: 7804798421783021581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_106
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61442c9bdd2f95c30800000000000000
+      internalID: 4348773949321135126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa98c22453776a50800000000000000
+      internalID: 6514302191212731045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098336cc2ef7f8690800000000000000
+      internalID: -7597713434282346352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ea9b49e8bd8d330800000000000000
+      internalID: 3735977296330862160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef8cdf659f0c7dc0800000000000000
+      internalID: -3640017264320933918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674400bc8a26641e0800000000000000
+      internalID: -2213973689706199946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31730023d121973d0800000000000000
+      internalID: -3208513342922541293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7a4f97d8000d4c0800000000000000
+      internalID: -4264908239483394108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_114
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3737e4ca2f4fd8a0800000000000000
+      internalID: -6278212310420474052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_115
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a8aca640425b80800000000000000
+      internalID: -8407586882058674145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904a6d8fac9321d0800000000000000
+      internalID: -3376683017791979361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_117
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c024a901070cd0800000000000000
+      internalID: -2592101919608486349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dae8042a81f3a20800000000000000
+      internalID: 3044178958272605451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ce9acd26ff02f90800000000000000
+      internalID: -6980298622350267360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c1975c76634140800000000000000
+      internalID: 4702715120136077811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed459676f77fa000800000000000000
+      internalID: 49390021359521248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71aa9078230fd10800000000000000
+      internalID: 2157279777074583506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_123
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9483ce1019d12ee90800000000000000
+      internalID: -6997998362340607927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_124
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea01270b0e920f90800000000000000
+      internalID: -6988849901524153622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_125
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0716151b3886a0e0800000000000000
+      internalID: -2258968375741507829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_126
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3e9cfb413054a0800000000000000
+      internalID: -6606726450921980269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_127
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac3709aaeccaa630800000000000000
+      internalID: 3939186132319157423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc175a8bcff4dd70800000000000000
+      internalID: 9067153199468059846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6025d0611a100a70800000000000000
+      internalID: 8791055134568554605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb102dfa8cffb8e0800000000000000
+      internalID: -1675342862476108860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e01f32a85b2d23c0800000000000000
+      internalID: -4382799202682466076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9321caeb034220e90800000000000000
+      internalID: -7061041473987538375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988f0c30c71db46d0800000000000000
+      internalID: -3005077995770546039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3c4af63727df20800000000000000
+      internalID: 3447267156856421407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70df2c17ada61c910800000000000000
+      internalID: 1855882007897373959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122fea90a76dccc20800000000000000
+      internalID: 3228190852554617377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13086b691cb1b3700800000000000000
+      internalID: 521040700162605105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da62e34018a49c0800000000000000
+      internalID: -3942196668586873473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4039ebbcfd8c6f010800000000000000
+      internalID: 1222385212399194884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d458d1dfaa3b70800000000000000
+      internalID: 8879602931126819326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d45eeaf4b62d9b90800000000000000
+      internalID: -7233582867741256490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae0f3fb26fdbc6f0800000000000000
+      internalID: -663190904898646361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dda8ab9b3d60bc50800000000000000
+      internalID: 6678958350172466645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c624a53e353a04790800000000000000
+      internalID: -7547853394780994964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_145
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a722362a69a3ae0800000000000000
+      internalID: -1568775895993124279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_146
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e442e103a6e259f70800000000000000
+      internalID: 9193305247955428430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_147
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54079877fe3cc290800000000000000
+      internalID: -7868845216322091939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_148
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe097534d721610b0800000000000000
+      internalID: -5758394744336576273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_149
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7849bde7e495d60800000000000000
+      internalID: 7879415329818183606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_150
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbff56534d72b1c40800000000000000
+      internalID: 5484020763636137915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_151
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90a735f0da147210800000000000000
+      internalID: 1329717274750722204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-and-Banners_152
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb80da7070deefa0800000000000000
+      internalID: -5769444891099624484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f7caadd4654a0244092b63f39e0957b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":8.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Frames-and-Banners_0: 3253818524902621619
+      Frames-and-Banners_1: 9132099456704268010
+      Frames-and-Banners_10: 6228508778525212349
+      Frames-and-Banners_100: 5465873724718374649
+      Frames-and-Banners_101: 3470883102205318927
+      Frames-and-Banners_102: -2552941582704076706
+      Frames-and-Banners_103: 801267243691748348
+      Frames-and-Banners_104: 3450311049011453829
+      Frames-and-Banners_105: 7804798421783021581
+      Frames-and-Banners_106: 4348773949321135126
+      Frames-and-Banners_107: 6514302191212731045
+      Frames-and-Banners_108: -7597713434282346352
+      Frames-and-Banners_109: 3735977296330862160
+      Frames-and-Banners_11: 6861348883470508461
+      Frames-and-Banners_110: -3640017264320933918
+      Frames-and-Banners_111: -2213973689706199946
+      Frames-and-Banners_112: -3208513342922541293
+      Frames-and-Banners_113: -4264908239483394108
+      Frames-and-Banners_114: -6278212310420474052
+      Frames-and-Banners_115: -8407586882058674145
+      Frames-and-Banners_116: -3376683017791979361
+      Frames-and-Banners_117: -2592101919608486349
+      Frames-and-Banners_118: 3044178958272605451
+      Frames-and-Banners_119: -6980298622350267360
+      Frames-and-Banners_12: -4458506318447348965
+      Frames-and-Banners_120: 4702715120136077811
+      Frames-and-Banners_121: 49390021359521248
+      Frames-and-Banners_122: 2157279777074583506
+      Frames-and-Banners_123: -6997998362340607927
+      Frames-and-Banners_124: -6988849901524153622
+      Frames-and-Banners_125: -2258968375741507829
+      Frames-and-Banners_126: -6606726450921980269
+      Frames-and-Banners_127: 3939186132319157423
+      Frames-and-Banners_128: 9067153199468059846
+      Frames-and-Banners_129: 8791055134568554605
+      Frames-and-Banners_13: 8619711171849022718
+      Frames-and-Banners_130: -1675342862476108860
+      Frames-and-Banners_131: -4382799202682466076
+      Frames-and-Banners_132: -7061041473987538375
+      Frames-and-Banners_133: -3005077995770546039
+      Frames-and-Banners_134: 3447267156856421407
+      Frames-and-Banners_135: 1855882007897373959
+      Frames-and-Banners_136: 3228190852554617377
+      Frames-and-Banners_137: 521040700162605105
+      Frames-and-Banners_138: -3942196668586873473
+      Frames-and-Banners_139: 1222385212399194884
+      Frames-and-Banners_14: -590903992254848051
+      Frames-and-Banners_140: 8879602931126819326
+      Frames-and-Banners_141: -7233582867741256490
+      Frames-and-Banners_142: -663190904898646361
+      Frames-and-Banners_143: 6678958350172466645
+      Frames-and-Banners_144: -7547853394780994964
+      Frames-and-Banners_145: -1568775895993124279
+      Frames-and-Banners_146: 9193305247955428430
+      Frames-and-Banners_147: -7868845216322091939
+      Frames-and-Banners_148: -5758394744336576273
+      Frames-and-Banners_149: 7879415329818183606
+      Frames-and-Banners_15: -7263280401967211940
+      Frames-and-Banners_150: 5484020763636137915
+      Frames-and-Banners_151: 1329717274750722204
+      Frames-and-Banners_152: -5769444891099624484
+      Frames-and-Banners_16: -2606343388680563462
+      Frames-and-Banners_17: 6337357670248379509
+      Frames-and-Banners_18: -109244493819282268
+      Frames-and-Banners_19: 8531536632270002957
+      Frames-and-Banners_2: 7930828383154157108
+      Frames-and-Banners_20: 1892823090764320940
+      Frames-and-Banners_21: 5884611199261667466
+      Frames-and-Banners_22: 8369102214556268208
+      Frames-and-Banners_23: -6690796952875420698
+      Frames-and-Banners_24: 8418519915089834970
+      Frames-and-Banners_25: -7800885703479952240
+      Frames-and-Banners_26: 3001460143697355163
+      Frames-and-Banners_27: 3484693744628291212
+      Frames-and-Banners_28: -8542255148165023980
+      Frames-and-Banners_29: 5180789074577565938
+      Frames-and-Banners_3: 4521647955366919481
+      Frames-and-Banners_30: -3045970696038391943
+      Frames-and-Banners_31: 7133798272545687137
+      Frames-and-Banners_32: -7811881606586490105
+      Frames-and-Banners_33: 375081609035495591
+      Frames-and-Banners_34: -7348410264078212678
+      Frames-and-Banners_35: 6977934943577554172
+      Frames-and-Banners_36: -8520343748118472819
+      Frames-and-Banners_37: 8634418538118339641
+      Frames-and-Banners_38: -1095225477368269313
+      Frames-and-Banners_39: -2256664955834292594
+      Frames-and-Banners_4: 6143584511448684207
+      Frames-and-Banners_40: 1694902438952469693
+      Frames-and-Banners_41: 6167207451561348913
+      Frames-and-Banners_42: 2531419104379192206
+      Frames-and-Banners_43: 143212689409106549
+      Frames-and-Banners_44: -135094572699624237
+      Frames-and-Banners_45: 4665699113236015576
+      Frames-and-Banners_46: -2108092730043213342
+      Frames-and-Banners_47: -7376625516486957055
+      Frames-and-Banners_48: -8967050796904816139
+      Frames-and-Banners_49: -8021812277773492702
+      Frames-and-Banners_5: -5395264548239351744
+      Frames-and-Banners_50: -760105046354617883
+      Frames-and-Banners_51: 308552997253701086
+      Frames-and-Banners_52: -6628506940651996351
+      Frames-and-Banners_53: -462062634908290393
+      Frames-and-Banners_54: -2423208521730325424
+      Frames-and-Banners_55: -3422593813710320228
+      Frames-and-Banners_56: 8700259510528807495
+      Frames-and-Banners_57: -7168240526443277321
+      Frames-and-Banners_58: -8790459128971707004
+      Frames-and-Banners_59: -5352532058858181547
+      Frames-and-Banners_6: 6724696365868069504
+      Frames-and-Banners_60: 7456198596153224434
+      Frames-and-Banners_61: 2301574963354524553
+      Frames-and-Banners_62: 2793918898015564463
+      Frames-and-Banners_63: 4464990200040658372
+      Frames-and-Banners_64: -5983006483397066336
+      Frames-and-Banners_65: 6427828085553787477
+      Frames-and-Banners_66: -7978463966147358411
+      Frames-and-Banners_67: -3806348462870851544
+      Frames-and-Banners_68: 1480765001425017971
+      Frames-and-Banners_69: 1999198026925727961
+      Frames-and-Banners_7: -8977671427105182788
+      Frames-and-Banners_70: -1845648140996143682
+      Frames-and-Banners_71: -7009565877452882465
+      Frames-and-Banners_72: -5664229298309252374
+      Frames-and-Banners_73: 5803213754044459605
+      Frames-and-Banners_74: 325575762865462139
+      Frames-and-Banners_75: -4099843342131321966
+      Frames-and-Banners_76: -2853732428350720377
+      Frames-and-Banners_77: -4340762238130880241
+      Frames-and-Banners_78: -3561458964082423538
+      Frames-and-Banners_79: -5426775519742445053
+      Frames-and-Banners_8: -1566862758817611832
+      Frames-and-Banners_80: -2382024986233620380
+      Frames-and-Banners_81: 3510897766467906682
+      Frames-and-Banners_82: 2334768048209454526
+      Frames-and-Banners_83: 8097648150726516457
+      Frames-and-Banners_84: -7134084890116635797
+      Frames-and-Banners_85: -6440227820238594487
+      Frames-and-Banners_86: 5820394857130851378
+      Frames-and-Banners_87: -527951254135504673
+      Frames-and-Banners_88: 6495280178033611975
+      Frames-and-Banners_89: -3837487285575613881
+      Frames-and-Banners_9: -2482700959527231406
+      Frames-and-Banners_90: -1621923978449569580
+      Frames-and-Banners_91: 7091640525957814601
+      Frames-and-Banners_92: -5711312364992117669
+      Frames-and-Banners_93: -7583157162068208708
+      Frames-and-Banners_94: -5007316132672018122
+      Frames-and-Banners_95: -4422500719755616194
+      Frames-and-Banners_96: 8950619418699652012
+      Frames-and-Banners_97: -4494922795739829785
+      Frames-and-Banners_98: -6274315344872977129
+      Frames-and-Banners_99: -1473694119744040398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
