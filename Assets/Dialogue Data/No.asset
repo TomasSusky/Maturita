@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: No
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   dialogue:
-  - No
+  - 'Oh...
+
+'
   responses: []

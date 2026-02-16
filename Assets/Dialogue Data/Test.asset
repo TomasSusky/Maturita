@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Test
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   dialogue:
-  - "Prv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFD. Prv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFDPrv\xFD"
-  - "Druh\xFDDruh\xFDDruh\xFDDruh\xFDDruh\xFD, Druh\xFDDruh\xFDDruh\xFD!"
+  - Hello!
+  - Do you want some coins?
   responses:
   - responseText: Yes
     dialogueObject: {fileID: 11400000, guid: f9553668212766040bc429beecb3e7f1, type: 2}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: hotovo
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   dialogue:
-  - Hotovo
+  - Here you go.
   responses:
   - responseText: Okay
     dialogueObject: {fileID: 0}
