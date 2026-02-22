@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float climbSpeed = 5f;
     [SerializeField] Vector2 deathKick = new Vector2(10f, 25f);
     private DialogueUI dialogueUI;
+    private GameSession gameSession;
     Vector2 moveInput;
     Rigidbody2D myRigidbody;
     Animator myAnimator;
@@ -18,6 +19,7 @@ public class PlayerMovement : MonoBehaviour
     void Awake()
     {
         dialogueUI = FindFirstObjectByType<DialogueUI>();
+        gameSession = FindFirstObjectByType<GameSession>();
     }
 
     bool isAlive = true;
@@ -34,6 +36,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         if (dialogueUI.IsOpen) { return; }  
+        if (!gameSession.CanMove) { return; }
         if(!isAlive) { return; }
         Run();
         FlipSprite();
@@ -44,6 +47,7 @@ public class PlayerMovement : MonoBehaviour
     void OnMove(InputValue value)
     {
         if (dialogueUI.IsOpen) { return; }
+        if (!gameSession.CanMove) { return; }
         if(!isAlive) { return; }
         moveInput = value.Get<Vector2>();
     }
@@ -51,6 +55,7 @@ public class PlayerMovement : MonoBehaviour
     void OnJump(InputValue value)
     {
         if (dialogueUI.IsOpen) { return; }
+        if (!gameSession.CanMove) { return; }
         if(!isAlive) { return; }
         if(!myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
         {

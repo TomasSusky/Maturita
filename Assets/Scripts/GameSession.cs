@@ -1,4 +1,3 @@
-using System;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -10,6 +9,8 @@ public class GameSession : MonoBehaviour
 
     [SerializeField] TextMeshProUGUI livesText;
     [SerializeField] TextMeshProUGUI scoreText;
+    [SerializeField] GameOverScreen gameOverScreen;
+    public bool CanMove { get; private set; }
     
     void Awake()
     {
@@ -26,6 +27,7 @@ public class GameSession : MonoBehaviour
 
     void Start()
     {
+        CanMove = true;
         livesText.text = playerLives.ToString();
         scoreText.text = score.ToString();
     }
@@ -56,11 +58,15 @@ public class GameSession : MonoBehaviour
         livesText.text = playerLives.ToString();
     }
 
+    public void ShowWinScreen()
+    {
+        CanMove = false;
+        gameOverScreen.Setup(true);
+    }
+
     void ResetGameSession()
     {
-        FindFirstObjectByType<ScenePersist>().ResetScenePersist();
-        FindFirstObjectByType<DialogueUI>().ResetDialogueUI();
-        SceneManager.LoadScene(0);
-        Destroy(gameObject);
+        CanMove = false;
+        gameOverScreen.Setup(false);
     }
 }

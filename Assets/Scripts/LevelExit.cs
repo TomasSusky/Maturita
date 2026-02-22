@@ -18,11 +18,13 @@ public class LevelExit : MonoBehaviour
         int nextSceneIndex = currentSceneIndex + 1;
         if (nextSceneIndex == SceneManager.sceneCountInBuildSettings)
         {
-            nextSceneIndex = 0; 
+            FindFirstObjectByType<GameSession>().ShowWinScreen();
         }
-        
-        FindFirstObjectByType<ScenePersist>().ResetScenePersist();
-        FindFirstObjectByType<DialogueUI>().ResetDialogueUI();
-        SceneManager.LoadScene(nextSceneIndex);
+        else
+        {
+            FindFirstObjectByType<ScenePersist>().ResetScenePersist();
+            FindFirstObjectByType<DialogueUI>().ResetDialogueUI();
+            SceneManager.LoadScene(nextSceneIndex);
+        }
     }
 }
