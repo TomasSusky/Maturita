@@ -50,6 +50,21 @@ public class GameSession : MonoBehaviour
         scoreText.text = score.ToString();
     }
 
+    public void SubstractScore(int pointsToSubstract)
+    {
+        score -= pointsToSubstract;
+        if (score < 0)
+        {
+            score = 0;
+        }
+        scoreText.text = score.ToString();
+    }
+
+    public bool CheckIfHasEnoughPoints(int pointsToCheck)
+    {
+        return score >= pointsToCheck;
+    }
+
     void TakeLife()
     {
         playerLives--;

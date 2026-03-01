@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3963846999109441019}
   - component: {fileID: 3084061646843858457}
   - component: {fileID: 7162247181338371540}
+  - component: {fileID: 9126975288826123027}
   m_Layer: 13
   m_Name: Roger
   m_TagString: Untagged
@@ -81,8 +82,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 618724141
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_Sprite: {fileID: 4989214682264500250, guid: 4757ad28d2c664f40aca41a3e0b2d388, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -230,3 +231,16 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+--- !u!114 &9126975288826123027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2958016196353116938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff338a846111f64dbc4000bc04344ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ShowInteractable
+  interactableUI: {fileID: 0}

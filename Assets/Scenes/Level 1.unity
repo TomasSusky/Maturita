@@ -17661,8 +17661,8 @@ PolygonCollider2D:
   m_Points:
     m_Paths:
     - - {x: 2.545229, y: 6.5146627}
-      - {x: -17.298792, y: 6.383879}
-      - {x: -17.441538, y: -31.604147}
+      - {x: -21.982096, y: 5.9001822}
+      - {x: -21.275879, y: -29.980381}
       - {x: 38.543674, y: -26.067852}
       - {x: 43.25399, y: 6.304763}
   m_UseDelaunayMesh: 0
@@ -17798,9 +17798,9 @@ CompositeCollider2D:
       - X: 297500000
         Y: -180000000
     - - X: 117500000
-        Y: -240000000
+        Y: -230000000
       - X: 112500000
-        Y: -240000000
+        Y: -230000000
       - X: 112500000
         Y: -260000000
       - X: 117500000
@@ -17816,8 +17816,8 @@ CompositeCollider2D:
       - {x: 29.25, y: -1.0000293}
       - {x: 29.250029, y: -18}
     - - {x: 11.74997, y: -26}
-      - {x: 11.74997, y: -24}
-      - {x: 11.25, y: -24.000029}
+      - {x: 11.74997, y: -23}
+      - {x: 11.25, y: -23.000029}
       - {x: 11.25003, y: -26}
   m_VertexDistance: 0.0005
   m_OffsetDistance: 0.00005
@@ -17925,6 +17925,16 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 11, y: -25, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 1
+      m_TileSpriteIndex: 1
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 11, y: -24, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 1
@@ -18138,15 +18148,15 @@ Tilemap:
   m_TileAssetArray:
   - m_RefCount: 20
     m_Data: {fileID: 11400000, guid: 3a29459fae0fd234f956f3245e991bc9, type: 2}
-  - m_RefCount: 2
+  - m_RefCount: 3
     m_Data: {fileID: 11400000, guid: dab36c045e7705347ac35b3e52b50b52, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 20
     m_Data: {fileID: -876803773717737921, guid: 5d25165f43c1d4343a824bfe91d37446, type: 3}
-  - m_RefCount: 2
+  - m_RefCount: 3
     m_Data: {fileID: -7077688624631072160, guid: 5d25165f43c1d4343a824bfe91d37446, type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 22
+  - m_RefCount: 23
     m_Data:
       e00: 1
       e01: 0
@@ -18165,7 +18175,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 22
+  - m_RefCount: 23
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -18496,6 +18506,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 492622575}
+  - {fileID: 7037943450966901236}
   m_Father: {fileID: 905790406440847682}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &895647359
@@ -24264,10 +24275,10 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 953421659}
-  - {fileID: 454166155}
   - {fileID: 489195142}
   - {fileID: 1080573695}
   - {fileID: 510035261}
+  - {fileID: 454166155}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2013093827 stripped
@@ -24590,6 +24601,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9126975288826123027, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: interactableUI
+      value: 
+      objectReference: {fileID: 7102565485312977637}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24666,7 +24681,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7911439062109304461, guid: db32544b1896b4f489179ffcac838990, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -16.89
+      value: -22.32
       objectReference: {fileID: 0}
     - target: {fileID: 7911439062109304461, guid: db32544b1896b4f489179ffcac838990, type: 3}
       propertyPath: m_LocalPosition.y
@@ -24758,6 +24773,198 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1001 &6425394870201296863
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 758035126}
+    m_Modifications:
+    - target: {fileID: 3169388527460804755, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: interactableUI
+      value: 
+      objectReference: {fileID: 7102565485312977637}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -444.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -181.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562752544632944870, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562752544632944870, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562752544632944870, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562752544632944870, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: ExitUnblocker, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8961764922350039178, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: m_Name
+      value: ExitGuard
+      objectReference: {fileID: 0}
+    - target: {fileID: 9195963426160571801, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9195963426160571801, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7037943450966901239}
+    - target: {fileID: 9195963426160571801, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CheckPoints
+      objectReference: {fileID: 0}
+    - target: {fileID: 9195963426160571801, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: ExitUnblocker, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 9195963426160571801, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9195963426160571801, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8961764922350039178, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      insertIndex: 6
+      addedObject: {fileID: 7037943450966901246}
+    - targetCorrespondingSourceObject: {fileID: 8961764922350039178, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+      insertIndex: 7
+      addedObject: {fileID: 7037943450966901245}
+  m_SourcePrefab: {fileID: 100100000, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+--- !u!4 &7037943450966901236 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4576521750199419435, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+  m_PrefabInstance: {fileID: 6425394870201296863}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7037943450966901238 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8961764922350039178, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+  m_PrefabInstance: {fileID: 6425394870201296863}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7037943450966901239 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2270013818593126075, guid: 8f796643f35a5b44387a75f170be0d1d, type: 3}
+  m_PrefabInstance: {fileID: 6425394870201296863}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7037943450966901238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70af763f6f1b4f54284cba620ca75f83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExitUnblocker
+--- !u!114 &7037943450966901245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7037943450966901238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564cd0c3861fc1544a014f606a0f4b4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueResponseEvents
+  dialogueObject: {fileID: 11400000, guid: 2dcff4e08b7b93f408b8490c7bf1dd5f, type: 2}
+  events:
+  - name: Here
+    onPickedResponse:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 7037943450966901239}
+          m_TargetAssemblyTypeName: ExitUnblocker, Assembly-CSharp
+          m_MethodName: UnblockExit
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+--- !u!114 &7037943450966901246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7037943450966901238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564cd0c3861fc1544a014f606a0f4b4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueResponseEvents
+  dialogueObject: {fileID: 11400000, guid: 0cb6e4d00eea81841959c8ce808906bc, type: 2}
+  events:
+  - name: Yes
+    onPickedResponse:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 7037943450966901239}
+          m_TargetAssemblyTypeName: ExitUnblocker, Assembly-CSharp
+          m_MethodName: CheckPoints
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  - name: No
+    onPickedResponse:
+      m_PersistentCalls:
+        m_Calls: []
 --- !u!1001 &7041727810538902610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24900,6 +25107,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8ab7ffc77bccc4a479041db510fe4b23, type: 3}
+--- !u!114 &7102565485312977637 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4886922969498559009, guid: 8ab7ffc77bccc4a479041db510fe4b23, type: 3}
+  m_PrefabInstance: {fileID: 7102565485312977636}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!114 &7796592042037257608 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6302979365126570319, guid: 8ab7ffc77bccc4a479041db510fe4b23, type: 3}
