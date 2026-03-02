@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -11,6 +12,13 @@ public class GameSession : MonoBehaviour
     [SerializeField] TextMeshProUGUI scoreText;
     [SerializeField] GameOverScreen gameOverScreen;
     public bool CanMove { get; private set; }
+
+    [SerializeField] Dictionary<string, int> enemyHits = new Dictionary<string, int>
+    {
+        {"EmberEnemy", 1},
+        {"SnakeyEnemy", 2},
+        {"BoneyEnemy", 3}
+    };
     
     void Awake()
     {
@@ -32,16 +40,23 @@ public class GameSession : MonoBehaviour
         scoreText.text = score.ToString();
     }
 
-    public void ProcessPlayerDeath()
+    public void ProcessPlayerDeath(string enemyName)
     {
-       if (playerLives > 1)
-       {
-           TakeLife();
-       }
-       else
-       {
-           ResetGameSession();
-       }
+        int lifesToTake = enemyHits.ContainsKey(enemyName) ? enemyHits[enemyName] : 1;
+        if (playerLives > lifesToTake)
+        {
+            TakeLife(lifesToTake);
+        }
+        else
+        {
+            ResetGameSession();
+        }
+    }
+
+    public void AddToLife(int livesToAdd)
+    {
+        playerLives += livesToAdd;
+        livesText.text = playerLives.ToString();
     }
 
     public void AddToScore(int pointsToAdd)
@@ -65,9 +80,9 @@ public class GameSession : MonoBehaviour
         return score >= pointsToCheck;
     }
 
-    void TakeLife()
+    void TakeLife(int lifesToTake)
     {
-        playerLives--;
+        playerLives -= lifesToTake;
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex);
         livesText.text = playerLives.ToString();

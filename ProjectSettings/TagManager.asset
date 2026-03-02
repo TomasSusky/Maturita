@@ -15,12 +15,12 @@ TagManager:
   - Climbing
   - Player
   - Background
-  - Enemies
+  - EmberEnemy
   - Hazards
   - Decorations
   - Interactables
-  - 
-  - 
+  - SnakeyEnemy
+  - BoneyEnemy
   - 
   - 
   - 

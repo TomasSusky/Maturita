@@ -86,6 +86,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1723289583639693513, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 551749e521dfab5438b7fa88ff16ee69, type: 2}
     - target: {fileID: 2958016196353116938, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: m_Name
       value: ExitGuard Variant
@@ -136,7 +140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3084061646843858457, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: UnblockExit
+      value: CheckPoints
       objectReference: {fileID: 0}
     - target: {fileID: 3084061646843858457, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: events.Array.data[1].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
@@ -170,6 +174,10 @@ PrefabInstance:
       propertyPath: dialogueObject
       value: 
       objectReference: {fileID: 11400000, guid: 651865e359e0a8e4e8925d0b70af3f6d, type: 2}
+    - target: {fileID: 5737050525225298284, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -867553034, guid: 4757ad28d2c664f40aca41a3e0b2d388, type: 3}
     - target: {fileID: 7697069513190963627, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: m_LocalPosition.x
       value: -444.75
@@ -219,6 +227,12 @@ PrefabInstance:
       addedObject: {fileID: 8909600035500506524}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 2958016196353116938, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      insertIndex: 6
+      addedObject: {fileID: 8965318232299113745}
+    - targetCorrespondingSourceObject: {fileID: 2958016196353116938, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      insertIndex: 7
+      addedObject: {fileID: 9120195675261008574}
+    - targetCorrespondingSourceObject: {fileID: 2958016196353116938, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2270013818593126075}
   m_SourcePrefab: {fileID: 100100000, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
@@ -243,6 +257,70 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2958016196353116938, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
   m_PrefabInstance: {fileID: 6148092687997221760}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &8965318232299113745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8961764922350039178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564cd0c3861fc1544a014f606a0f4b4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueResponseEvents
+  dialogueObject: {fileID: 11400000, guid: 0cb6e4d00eea81841959c8ce808906bc, type: 2}
+  events:
+  - name: Yes
+    onPickedResponse:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 2270013818593126075}
+          m_TargetAssemblyTypeName: ExitUnblocker, Assembly-CSharp
+          m_MethodName: CheckPoints
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  - name: No
+    onPickedResponse:
+      m_PersistentCalls:
+        m_Calls: []
+--- !u!114 &9120195675261008574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8961764922350039178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564cd0c3861fc1544a014f606a0f4b4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueResponseEvents
+  dialogueObject: {fileID: 11400000, guid: 2dcff4e08b7b93f408b8490c7bf1dd5f, type: 2}
+  events:
+  - name: Here
+    onPickedResponse:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 2270013818593126075}
+          m_TargetAssemblyTypeName: ExitUnblocker, Assembly-CSharp
+          m_MethodName: UnblockExit
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!114 &2270013818593126075
 MonoBehaviour:
   m_ObjectHideFlags: 0
