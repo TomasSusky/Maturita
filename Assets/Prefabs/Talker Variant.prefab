@@ -20,6 +20,10 @@ PrefabInstance:
       propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.size
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3963846999109441019, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: dialogueObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 18972419e9594c1469ff65c087c0c4e8, type: 2}
     - target: {fileID: 5737050525225298284, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: m_Sprite
       value: 

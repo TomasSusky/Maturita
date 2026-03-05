@@ -16,6 +16,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Healer Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3084061646843858457, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: dialogueObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 38f2beaf182ae3c4c82db9fe49f42e8e, type: 2}
+    - target: {fileID: 3084061646843858457, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 1d370f5e52388f24d95833e969b5bae9, type: 2}
+    - target: {fileID: 3963846999109441019, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: dialogueObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 38f2beaf182ae3c4c82db9fe49f42e8e, type: 2}
     - target: {fileID: 5737050525225298284, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: m_FlipX
       value: 1
@@ -28,6 +40,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -3344401758759658862, guid: 4757ad28d2c664f40aca41a3e0b2d388, type: 3}
+    - target: {fileID: 7162247181338371540, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: dialogueObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 1d370f5e52388f24d95833e969b5bae9, type: 2}
     - target: {fileID: 7162247181338371540, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: AddToLife
@@ -42,7 +58,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7697069513190963627, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -174.17
+      value: -174.37
       objectReference: {fileID: 0}
     - target: {fileID: 7697069513190963627, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: m_LocalPosition.z

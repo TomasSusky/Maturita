@@ -1,25 +1,24 @@
 using UnityEngine;
 
-public class ExitUnblocker : MonoBehaviour
+public class BirneScript : MonoBehaviour
 {
-    [SerializeField] private GameObject levelExit;
+    
     [SerializeField] private DialogueActivator dialogueActivator;
     [SerializeField] private DialogueObject insufficientPointsDialogue;
     [SerializeField] private DialogueObject sufficientPointsDialogue;
-    public void UnblockExit()
+    public void GiveCoins()
     {
         var gs = FindFirstObjectByType<GameSession>();
-        if (gs != null && gs.CheckIfHasEnoughPoints(5000))
+        if (gs != null && gs.CheckIfHasEnoughPoints(10))
         {
-            levelExit.GetComponent<BoxCollider2D>().isTrigger = true;
-            gs.SubstractScore(5000);
+            gs.SubstractScore(10);
         }
     }
 
     public void CheckPoints()
     {
         var gs = FindFirstObjectByType<GameSession>();
-        if (gs != null && gs.CheckIfHasEnoughPoints(5000))
+        if (gs != null && gs.CheckIfHasEnoughPoints(10))
         {
             dialogueActivator.UpdateDialogueObject(sufficientPointsDialogue);
         }

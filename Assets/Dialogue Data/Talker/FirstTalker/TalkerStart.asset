@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a939c9b5142514086bd165cbbf93ed, type: 3}
+  m_Name: TalkerStart
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  dialogue:
+  - Hello! Welcome honored guest! Where do you come from?
+  - You know, you shouldn't be here. There's cursed town up ahead.
+  - 'You don''t know how you got here? Intriguing... '
+  - Well the only way you can go right now is to the town. But don't you worry!
+  - 'There are couple of healers and dealers down the road to help lost travellers
+    like yourself. '
+  - Be sure to ask them for help!
+  - 'On the path behind me is my brother Roger. Make sure to take spare change from
+    him. '
+  - He doesn't need it anyway.
+  - 'But be careful! On the way u will find many sorts of creatures. '
+  - If I were you i wouldn't get in their way.
+  - I hope you wiill find what you are looking for. Take care!
+  responses: []
