@@ -33,11 +33,11 @@ public class DialogueUI : MonoBehaviour
         CloseDialogueBox();
     }
 
-    public void ShowDialogue(DialogueObject dialogueObject)
+    public void ShowDialogue(DialogueObject dialogueObject, GameObject enemy)
     {
         IsOpen = true;
         dialogueBox.SetActive(true);
-        StartCoroutine(StepThroughDialogue(dialogueObject));
+        StartCoroutine(StepThroughDialogue(dialogueObject, enemy));
     }
 
     public void AddResponseEvents(ResponseEvent[] responseEvents)
@@ -45,7 +45,7 @@ public class DialogueUI : MonoBehaviour
         responseHandler.AddResponseEvents(responseEvents);
     }
 
-    private IEnumerator StepThroughDialogue(DialogueObject dialogueObject)
+    private IEnumerator StepThroughDialogue(DialogueObject dialogueObject, GameObject enemy)
     {
         for (int i = 0; i < dialogueObject.Dialogue.Length; i++)
         {
@@ -65,7 +65,7 @@ public class DialogueUI : MonoBehaviour
         }
         if (dialogueObject.HasResponses)
         {
-            responseHandler.ShowResponses(dialogueObject.Responses);
+            responseHandler.ShowResponses(dialogueObject.Responses, enemy);
         }
         else
         {

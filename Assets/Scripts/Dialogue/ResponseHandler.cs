@@ -24,7 +24,7 @@ public class ResponseHandler : MonoBehaviour
         this.responseEvents = responseEvents;
     }
 
-    public void ShowResponses(Response[] responses)
+    public void ShowResponses(Response[] responses, GameObject enemy)
     {
        float responseBoxHeight = 0;
 
@@ -36,7 +36,7 @@ public class ResponseHandler : MonoBehaviour
             GameObject responseButton = Instantiate(responseButtonTemplate.gameObject, responseContainer);
             responseButton.gameObject.SetActive(true);
             responseButton.GetComponent<TextMeshProUGUI>().text = response.ResponseText;
-            responseButton.GetComponent<Button>().onClick.AddListener(() => OnPickResponse(response, responseIndex));
+            responseButton.GetComponent<Button>().onClick.AddListener(() => OnPickResponse(response, responseIndex, enemy));
             tempResponseButtons.Add(responseButton);
             responseBoxHeight += responseButtonTemplate.sizeDelta.y;
        }
@@ -44,7 +44,7 @@ public class ResponseHandler : MonoBehaviour
        responseBox.gameObject.SetActive(true);
     }
 
-    private void OnPickResponse(Response response, int responseIndex)
+    private void OnPickResponse(Response response, int responseIndex, GameObject enemy)
     {
         responseBox.gameObject.SetActive(false);
         foreach (GameObject button in tempResponseButtons)
@@ -62,7 +62,15 @@ public class ResponseHandler : MonoBehaviour
 
         if (response.DialogueObject)
         {
-           dialogueUI.ShowDialogue(response.DialogueObject);
+            foreach (DialogueResponseEvents rev in enemy.GetComponents<DialogueResponseEvents>())
+            {
+                if (rev.DialogueObject == response.DialogueObject)
+                {
+                    dialogueUI.AddResponseEvents(rev.Events);
+                    break;
+                }
+            }
+            dialogueUI.ShowDialogue(response.DialogueObject, enemy);
         }
         else
         {

@@ -13,5 +13,10 @@ MonoBehaviour:
   m_Name: WhyTownTalker
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   dialogue:
-  - Because of the curse!
-  responses: []
+  - Because of the curse! Terrible curse, that is torturing this town for centuries!
+  - Wanna hear more?
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: bfba090ad34e7be4084b2e14c459e638, type: 2}
+  - responseText: No
+    dialogueObject: {fileID: 11400000, guid: 8a5098048236222408c4d5bb6e140f34, type: 2}

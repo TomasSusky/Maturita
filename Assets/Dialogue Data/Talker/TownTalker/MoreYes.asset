@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a939c9b5142514086bd165cbbf93ed, type: 3}
+  m_Name: MoreYes
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  dialogue:
+  - Listen closely!
+  - Long time ago this town was prosperous, rich and beautiful.
+  - 'This town was blessed by Lunara, the god of the moon. '
+  - 'And with her power this town was soon to be separate country. '
+  - Maybe even counquer the world!
+  - But the people of this town became greedy, unkind, and worst of all
+  - They stopped worshipping their god.
+  - Lunara became furious and cursed this town by eternal Crimson Moon.
+  - Now eternal night is here full of nightmares.
+  - All because these people couldn't value their god.
+  - If it weren't for Lunara this town would be long forgotten.
+  - But now... I'm surprised this town is still here after all those nightmares.
+  - Ahh... I said enough! But since you were so kind to listen.
+  - I will give you my ring. I think the broker said the value is around 3000 coins.
+  - Make good use of ti. For me its no longer valuable. Now be gone!
+  responses:
+  - responseText: Thanks!
+    dialogueObject: {fileID: 11400000, guid: 5f6d9f37e672ed642b631288c810f5be, type: 2}

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2a939c9b5142514086bd165cbbf93ed, type: 3}
-  m_Name: BirneYes
+  m_Name: Whatever
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   dialogue:
-  - Thank you brother! Have a blessed night tonight!
+  - Whatever...
   responses:
-  - responseText: Here
+  - responseText: Bye
     dialogueObject: {fileID: 0}

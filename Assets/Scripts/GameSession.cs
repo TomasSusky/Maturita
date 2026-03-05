@@ -20,6 +20,8 @@ public class GameSession : MonoBehaviour
         {"BoneyEnemy", 3}
     };
     
+    private Vector3 currentRespawnpoint = new Vector3(1, 1, 0);
+
     void Awake()
     {
         int numberGameSessions = FindObjectsByType<GameSession>(FindObjectsSortMode.None).Length;
@@ -84,8 +86,26 @@ public class GameSession : MonoBehaviour
     {
         playerLives -= lifesToTake;
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.sceneLoaded += MovePlayerAfterLoad;
         SceneManager.LoadScene(currentSceneIndex);
         livesText.text = playerLives.ToString();
+    }
+
+    void MovePlayerAfterLoad(Scene scene, LoadSceneMode mode)
+    {
+        PlayerMovement player = FindFirstObjectByType<PlayerMovement>();
+
+        if (player != null)
+        {
+            player.transform.position = currentRespawnpoint;
+        }
+
+        SceneManager.sceneLoaded -= MovePlayerAfterLoad;
+    }
+    
+    public void SetCurrentRespawnPoint(GameObject newRespawnPoint)
+    {
+        currentRespawnpoint = newRespawnPoint.transform.position;
     }
 
     public void ShowWinScreen()
