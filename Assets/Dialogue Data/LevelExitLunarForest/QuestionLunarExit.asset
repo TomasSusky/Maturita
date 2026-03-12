@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a939c9b5142514086bd165cbbf93ed, type: 3}
+  m_Name: QuestionLunarExit
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  dialogue:
+  - Do you have the coins?
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: f548b7f960dffbf4288b9d8419fb9fee, type: 2}
+  - responseText: No
+    dialogueObject: {fileID: 11400000, guid: 03fe768a213c97a44b4c6806668ca879, type: 2}
