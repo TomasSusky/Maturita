@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: StartExit
   m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
   dialogue:
-  - Hold! To continue forward you have to pay 5000 coins!
+  - Hold! To continue forward you have to pay 100 coins!
   responses:
   - responseText: Yes
     dialogueObject: {fileID: 11400000, guid: f548b7f960dffbf4288b9d8419fb9fee, type: 2}

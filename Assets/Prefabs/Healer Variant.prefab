@@ -52,6 +52,10 @@ PrefabInstance:
       propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7162247181338371540, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
+      propertyPath: events.Array.data[0].onPickedResponse.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 72fd9a5cee9d1fb488a41ef1ef62e992, type: 2}
     - target: {fileID: 7697069513190963627, guid: 5897ebb9ed603a243b2f7f2e429cb813, type: 3}
       propertyPath: m_LocalPosition.x
       value: -378.7

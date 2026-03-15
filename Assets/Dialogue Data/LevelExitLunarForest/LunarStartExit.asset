@@ -16,7 +16,7 @@ MonoBehaviour:
   - This place its...like a dream...
   - Hey! What are you doing in my lunar Forest? This is holy place of godess of moon.
     Begone!
-  - Unless...If you pay me 5000 coins i shall let you go!
+  - Unless...If you pay me 100 coins i shall let you go!
   responses:
   - responseText: Yes
     dialogueObject: {fileID: 11400000, guid: 86d93c50cee466b4187ef7d1c41c503a, type: 2}

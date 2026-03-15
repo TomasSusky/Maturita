@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a939c9b5142514086bd165cbbf93ed, type: 3}
+  m_Name: EndTalkerStart
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  dialogue:
+  - You are here? Already? Doesn't matter...
+  - You probably wonder why i look like you.
+  - You don't remember what happened to you do you.
+  - That hit you took from that car was nasty. It put you in coma. This whole thing
+    was a dream.
+  - But if you step through that door, you can wake up and forget about this world...
+  - But you will never be able to return...But i guess it doesn't matter.
+  - Farewell...
+  responses:
+  - responseText: Farewell
+    dialogueObject: {fileID: 0}
